@@ -20,4 +20,6 @@
 *.pyo
 
 project/project/data.db
+project/project/media/
+project/project/static/
 
